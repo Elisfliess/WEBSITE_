@@ -1,0 +1,24 @@
+
+.textos{
+    margin: auto;
+    height: 100vh;
+    background-color: #FEF2FE;
+    
+}
+
+
+.paragrafo{
+    margin: 0 auto;
+    width: 900px;
+    height: 150px;
+    text-align:center;
+    color:#000000;
+    font-size: 45px;
+    font-family: "Sedan SC", serif;
+    font-weight: 900;
+    font-weight: 900px;
+    font-style: normal;
+    cursor: grab;
+  }
+
+

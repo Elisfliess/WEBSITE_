@@ -1,0 +1,92 @@
+html{
+    scroll-behavior: smooth;
+  
+}
+
+.banner{
+    background-image: url("FUNDO_.png");
+    background-repeat: no-repeat;
+    background-size: cover;      
+    height: 80vh;
+    
+}
+
+/*MENU DE NAVEGAÇÃO*/
+.box{
+    background: #BF5E78;
+    margin: 0%;
+    opacity:0.95 ;
+    position: fixed;
+    width: 100%;
+}
+
+.box_cabecalho{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 15% 0 15%;
+   
+}
+
+.box_cabecalho-titulo{
+ color:black;
+ font-family: "Sedan SC", serif;
+ font-weight: 400;
+ font-style: normal;
+}
+
+.box_cabecalho-nav-ul{
+    display: flex;
+    list-style-type: none;
+}
+.box_cabecalho-nav-ul-li{
+    padding: 10px;
+    color: black;
+    font-family: "Sedan SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nav-link{
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+
+/*CIRCULO IMG*/
+
+.circulo{
+   
+  background-image: url("./LOGO_.png"); 
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+  background-size: cover;
+  margin: 70px auto 0 0 ;
+  
+}
+
+
+.Paragrafo-circulo{
+   
+  display: grid;
+  grid-template-areas: 
+  "paragrafo circulo";
+  grid-template-columns: 1fr 1.5fr;
+  margin: 0 auto;
+  width: 400px;
+  height: 200px;
+  
+
+   
+}
+
+
+.FUNDO_{
+    background-repeat: no-repeat;
+    background-size: cover;     
+    width: 100%;
+    display: block;
+    height: auto;
+}

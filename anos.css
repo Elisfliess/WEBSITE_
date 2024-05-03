@@ -1,0 +1,23 @@
+.anos{
+    margin: auto;
+    height: 100vh;
+    background-image: url("./FUNDO_.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.paragrafo{
+    margin: 0 auto;
+    width: 900px;
+    height: 150px;
+    text-align:center;
+    color:#000000;
+    font-size: 45px;
+    font-family: "Sedan SC", serif;
+    font-weight: 900;
+    font-style: normal;
+    cursor: grab;
+  }
+
+
