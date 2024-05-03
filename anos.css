@@ -5,9 +5,18 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    
 }
 
-.paragrafo{
+.h1{
+    font-size: 5vw;
+    background-color: blue;
+    text-align: center;
+    padding: 3vw;
+    position: relative;
+}
+
+.paragrafo_sec2 {
     margin: 0 auto;
     width: 900px;
     height: 150px;
@@ -21,3 +30,60 @@
   }
 
 
+.div_sec2 {
+    background-color: #BF5E78;
+    width: 400px;
+    height: 400px;
+    text-align:center;
+        color:#000000;
+        font-size: 10px;
+        font-family: "Sedan SC", serif;
+        font-weight: 900;
+        font-style: normal;
+        cursor: grab;
+        border: 10px solid #fff;
+        border-radius: 60px;
+        
+    display: inline-block;
+    padding: 5vw 0vw 5vw 0vw;
+    min-width:40vw;
+ 
+}
+    
+
+.paragrafo2_sec2 {
+    margin: 0 auto;
+    width: 900px;
+    height: 150px;
+    text-align:center;
+    color:#000000;
+    font-size: 45px;
+    font-family: "Sedan SC", serif;
+    font-weight: 900;
+    font-style: normal;
+    cursor: grab;
+  }
+
+
+.div2_sec2 {
+    background-color: #BF5E78;
+    width: 400px;
+    height: 400px;
+    text-align:center;
+        color:#000000;
+        font-size: 10px;
+        font-family: "Sedan SC", serif;
+        font-weight: 900;
+        font-style: normal;
+        cursor: grab;
+        border: 10px solid #fff;
+        border-radius: 60px;
+        text-align: center;
+        padding: 5vw 0vw 5vw 0vw;
+        min-width:40vw;
+       
+    
+
+    }
+
+    
